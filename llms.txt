@@ -1,0 +1,50 @@
+# HireVessa Recruiting
+
+> HireVessa Recruiting is an AI-assisted recruiting service operated under Apex Grid Engineering PLLC. It connects employers with qualified candidates through authorized sourcing, consent-first contact, verified qualifications, and evidence-pack shortlists. HireVessa is preparing for launch: no subscriptions, candidate intake, or applications are open yet.
+
+## What HireVessa is
+
+- An employer-paid recruiting service. Employers submit a real position; HireVessa sources candidates from authorized channels, verifies job-related qualifications, licences, and availability, and delivers a shortlist with qualification evidence.
+- The employer interviews and makes every hiring decision.
+- Initial practice areas: Construction & Trades, and Engineering-Adjacent support roles (drafting, project coordination, estimating, QA support). Licensed professional engineer placement is excluded at initial launch.
+- Roadmap areas (not open): Logistics & warehousing, Accounting & bookkeeping, Sales, Healthcare administration (non-clinical only), Technology. Remote support is a location option within open practice areas.
+
+## What HireVessa is not
+
+- HireVessa does not provide temporary staffing, employee leasing, payroll services, or employer-of-record services.
+- HireVessa never charges candidates a fee — not at application, not at placement, not ever.
+- HireVessa is not a consumer reporting agency. It does not order, procure, or resell background-check reports; an employer works directly with its own qualified consumer reporting agency under the Fair Credit Reporting Act (FCRA).
+
+## The Three Operating Rules
+
+1. Never fictional jobs — every opening comes from an authorized employer or a verified listing.
+2. Never unreviewable decisions — AI scores are advisory only; a designated human reviewer verifies every exclusion from a completed search's eligible pool before it takes effect, and candidates can correct their record.
+3. Never your employer of record — the employer hires and employs; HireVessa recruits.
+
+## Pricing (proposed pilot — not an active offer)
+
+- Scout: $199/month, 1 active search.
+- Growth: $499/month, up to 3 active searches.
+- Agency: $999/month, up to 10 active searches (entitlement provisional, confirmed against measured search cost at launch).
+- One active search = one defined position at one location or remote arrangement. A subscription buys documented search capacity, not unlimited labour. After 45 days without employer engagement and two documented follow-ups, a search parks and its slot is freed.
+- No checkout is open and no payments are accepted on the prelaunch site.
+
+## Direct answers
+
+- Is HireVessa a staffing agency? No. It is a recruiting service, not an employer-of-record or temporary staffing company.
+- Are candidates charged? No, never.
+- Who makes the hiring decision? The employer, always.
+- Does HireVessa guarantee a hire? No — it delivers a documented, evidence-led recruiting process, not a promised outcome.
+- Is HireVessa accepting applications or subscriptions today? No. It is preparing for launch; intake opens only after operational and jurisdiction gates clear.
+
+## Key pages
+
+- Home: https://hirevessa.com/
+- Contact: info@hirevessa.com
+
+## Company
+
+- Founder & CEO: Jeremy Mills
+- Parent: Apex Grid Engineering PLLC
+- Headquarters: Queen Creek, Arizona, USA
+- Phone: +1-480-490-0064
