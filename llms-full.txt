@@ -1,0 +1,809 @@
+# HireVessa Recruiting — Full Site Content
+
+> HireVessa Recruiting is an AI-assisted recruiting service operated under Apex Grid Engineering PLLC. It connects employers with qualified candidates through authorized sourcing, consent-first contact, verified qualifications, and evidence-pack shortlists. HireVessa is preparing for launch: no subscriptions, candidate intake, or applications are open yet. This file is the complete text content of hirevessa.com (a single-page site; sections below correspond to its Employers, Candidates, Industries, How It Works, Pricing, About, Contact, and FAQ views).
+
+# The Right People.
+The Right Opportunity.
+
+A recruiting engine that never sleeps and never cuts corners: authorized sourcing, consent-first contact, verified qualifications — and an evidence pack for every candidate, reviewed by humans, decided by you.
+
+Structured evidence. Human review. Employer-led decisions.
+
+For Employers
+For Candidates
+
+Ask HireVessa — answered by our automated assistant, right here:
+
+How does human review work?
+What's in an evidence pack?
+What does it cost?
+Do candidates pay fees?
+
+The Three Operating Rules
+
+## Rules we recruit by. No exceptions.
+
+01
+
+### Never fictional jobs
+
+Every opening comes from an authorized employer or a verified listing — source, employer, and date recorded. We do not invent roles to harvest resumes. Ever.
+
+02
+
+### Never unreviewable decisions
+
+AI scores are advisory only. A designated human reviewer verifies every exclusion from a completed search's eligible pool before it takes effect — and can reverse it. Candidates can correct their record.
+
+03
+
+### Never your employer of record
+
+HireVessa recruits; the employer hires and employs. No payroll, no temp staffing, no employee leasing. And candidates are never charged a fee — not at application, not at placement, not ever.
+
+THE WORKFLOW
+
+## Five steps. You make the call.
+
+- 1
+
+### Define the role
+
+You confirm the job criteria. Nothing moves without your authorization.
+
+- 2
+
+### Source with consent
+
+Authorized sources only — interested, consenting applicants. No scraped or purchased lists.
+
+- 3
+
+### Verify the fit
+
+Qualifications, licences, availability — checked against your criteria.
+
+- 4
+
+### Evidence-pack shortlist
+
+Every candidate arrives with the evidence. Human review covers the full eligible pool.
+
+- 5
+
+### You interview. You decide.
+
+The employer makes every hiring decision. We coordinate the rest.
+
+See the full process →
+
+See the machine work
+
+## An evidence pack, up close.
+
+Synthetic demo — fictional candidates
+
+A. Reyes — Fictional Candidate
+
+Journeyman Electrician · Construction & Trades
+Licence verified
+Experience match
+Availability
+
+Q: View evidence
+
+State journeyman licence (fictional record) · 9 years commercial work · OSHA 30 · confirmed start window. Scores are illustrative and advisory, built from the employer's defined job requirements.
+
+Q: View review notes
+
+Fictional review note: credentials cross-checked against the role criteria; no exclusion flags. In a real search, a human reviewer verifies every exclusion from the full eligible pool.
+
+J. Okafor — Fictional Candidate
+
+Project Coordinator · Engineering-Adjacent
+Qualification match
+Software fluency
+Availability
+
+Q: View evidence
+
+CAPM (fictional record) · submittal & RFI coordination history · references on file with consent. Scores are illustrative and advisory, built from the employer's defined job requirements.
+
+Q: View review notes
+
+Fictional review note: availability window confirmed with the candidate; scheduling constraints recorded for the employer.
+
+M. Sullivan — Fictional Candidate
+
+HVAC Service Technician · Construction & Trades
+EPA 608 verified
+Experience match
+Availability
+
+Q: View evidence
+
+EPA Section 608 Universal (fictional record) · 7 years residential + light commercial · clean driving record confirmed with consent. Scores are illustrative and advisory.
+
+Q: View review notes
+
+Fictional review note: evidence pack complete; employer interview scheduling is the next step in a real search.
+
+Illustrative format only. All candidates, qualifications, and assessments shown are fictional. This demonstration does not represent a completed search, available applicants, or actual hiring outcomes. A real search reviews the full eligible pool — this sample shows three cards in the format, and human review covers every exclusion from that full pool, not only the people shown.
+
+Where we start
+
+## Two desks first. Opened on evidence.
+
+### Construction & Trades
+
+Electricians, HVAC, plumbing, supervision, coordination — the trades that build everything else. Desk 1, our starting coverage.
+
+### Engineering-Adjacent
+
+Drafting, project coordination, estimating, QA support — the roles around the licensed practice. Desk 2, our starting coverage.
+
+On the roadmap — not open today: Logistics · Accounting · Sales · Healthcare administration (non-clinical) · Technology. Desks open on evidence, not hype. See industries →
+
+Pilot pricing
+
+## Simple scopes. Clear boundaries.
+
+### Scout
+
+$199/mo
+
+1 active search. For one important role.
+
+Popular pilot scope
+
+### Growth
+
+$499/mo
+
+Up to 3 active searches. For a growing pipeline.
+
+### Agency
+
+$999/mo
+
+Up to 10 active searches. For teams with multiple open roles.
+
+Proposed pilot pricing, shown for transparency — not yet an active offer. No checkout is open and no subscription or candidate intake is being accepted. Full pricing & boundaries →
+
+Our founder
+
+## Jeremy “Chico” Mills
+
+Founder & CEO · Serial entrepreneur · USAF veteran
+
+Jeremy Mills is the founder and owner of 10+ companies, led by Apex Grid Engineering.
+
+With HireVessa Recruiting, he is building a recruiting company that runs around the clock — matching employers with qualified candidates on verified evidence, with human review at every consequential step and the employer making every hiring decision.
+
+Operations are coordinated on Muse, our AI operations system, directed by Jeremy Mills. The employer makes every hiring decision.
+
+An Apex Grid Engineering PLLC company.
+
+More about Jeremy Mills →
+
+## Hiring? Looking? Start with the right conversation.
+
+HireVessa is preparing for launch. Employers and candidates can read exactly how this will work — the rules, the process, the boundaries — before anyone is asked for anything.
+I'm an employerI'm a candidate
+
+For employers
+
+# Spend less time sorting. More time meeting the right people.
+
+HireVessa is designing a recruiting workflow for small and midsize teams that want organized, evidence-led shortlists without handing over hiring authority.
+
+Our model
+
+## Your position. Your criteria. Your decision.
+
+You remain the hiring employer. HireVessa supports sourcing, qualification checks, scheduling, and coordination.◈
+
+### Real roles only
+
+A search begins with an actual position and a clear authorization from your organization.◇
+
+### Relevant evidence
+
+Qualifications and requirements are documented against your confirmed job-related criteria.↗
+
+### Your hiring call
+
+You interview, evaluate, and hire the people you select. HireVessa is not the employer of record.
+
+What the service is designed to cover
+
+## More structure in your hiring pipeline.
+1
+
+### Position intake
+
+Role title, approved pay range, location, must-have requirements, and hiring contact.2
+
+### Sourcing and consent
+
+Authorized candidate channels and role-specific contact permissions.3
+
+### Documented shortlist
+
+A record of relevant qualifications, availability, and any applicable licence checks.4
+
+### Interview coordination
+
+Scheduling and follow-up while your team owns the decision.01Role intakeEmployer confirmed criteria✓02Consent and qualificationsTraceable source facts✓03Human oversightReviewable decisions✓
+
+The boundaries
+
+## Clear expectations from day one.
+
+### Included in the planned service
+
+Position intake, authorized sourcing, consent-based candidate communication, qualification evidence, shortlists, scheduling and follow-up coordination.
+
+### Not included
+
+Employment, payroll, temp staffing, hiring guarantees, third-party job-board spend without approval, or background reports as part of the subscription.Third-party background checks, if ever requested, require a separate, compliant process and the candidate’s authorization. HireVessa does not act as a consumer reporting agency.
+
+The next step
+
+## Know who you want to hire. Keep control of how you hire.
+
+See planned search scopes and how pilot subscriptions are intended to work.Compare plans ↗
+
+For candidates
+
+# Your experience matters beyond a keyword match.
+
+We are building a more transparent recruiting process where AI can assist with organization, but people remain accountable for consequential decisions.
+
+Our promise to applicants
+
+## An informed process, not a black box.
+
+The same standards apply whether you are actively applying to a real role or consenting to future relevant contact.◉
+
+### Real opportunities only
+
+We do not post invented openings or use fictional jobs to harvest resumes.✧
+
+### No candidate fees
+
+Employers fund recruiting services. We do not charge applicants for placement, in any phase.☷
+
+### A way to be heard
+
+Candidates can request a human-reviewed route, seek accommodation, and correct inaccurate records.
+
+Your data and your choice
+
+## Consent isn’t fine print.
+
+We only intend to contact candidates using permitted channels, for real roles and within the scope of their consent. A candidate can opt out of future recruitment contact.
+
+Applicant information is not sold or automatically transferred from another company. Being a customer of another brand does not grant HireVessa permission to use your data.Read privacy approach ↗✓Clear role and employer typeKnow why you are contacted✓Job-related criteriaUnderstand how matching is used✓Human review & correctionA way to raise concernsApplications not yet open. There are currently no verified public vacancies listed on this website, and candidate profiles are not being collected here. Please do not send resumes or personal information until a secure, approved intake channel is published.
+
+What happens when active
+
+## A candidate journey designed to be clear.
+01
+
+### See a real role
+
+A current, authorized opportunity.02
+
+### Choose to apply
+
+Know the purpose of your information.03
+
+### Be considered
+
+Matching grounded in role-relevant evidence.04
+
+### Meet an employer
+
+Employers decide whether to interview and hire.
+
+The next step
+
+## A real opportunity should start with real information.
+
+Learn how the recruiting process is designed to protect transparency and human review.How the process works ↗
+
+Our focus
+
+# We start where we can understand the work.
+
+HireVessa is building focused practice areas in sectors where clear skill requirements and careful verification matter. Initial launch areas are shown first.
+
+Initial launch focus
+
+## Two practical starting points.
+
+These are intended launch practice areas, subject to operational and jurisdiction clearance.▥
+
+### Construction and skilled trades
+
+Field and office roles with defined skills, experience, site requirements, and licence checks where applicable.⌘
+
+### Engineering-adjacent support
+
+Drafters, CAD designers, technicians and project coordinators. Licensed professional engineer placement is excluded at initial launch.
+
+Future expansion
+
+## Other areas are on the roadmap—not open today.
+
+Practice areas open individually only after demand, search operations, and legal requirements have been cleared.
+
+### Logistics & warehousing
+
+Operations and supporting roles.
+
+### Accounting & bookkeeping
+
+Credential-led office roles.
+
+### Sales
+
+Requirements with safeguards for subjective assessments.
+
+### Healthcare administration
+
+Non-clinical roles only; privacy screening required.
+
+### Technology
+
+Later-stage specialization, not a launch desk.
+
+### Remote support
+
+Location option within applicable open practice areas.
+
+The next step
+
+## Your role matters more than a category.
+
+Learn how each employer’s job-related requirements guide a search.For employers ↗
+
+THE WORKFLOW
+
+# A repeatable process. A human hiring decision.
+
+Our service model organizes real jobs and consenting candidates around clear, evidenced requirements—not a promise of instant placement.
+
+From intake to close
+
+## Seven steps, with accountability throughout.
+01
+
+### Position authorization
+
+An employer confirms a real vacancy, its pay range, location, relevant qualifications, and the people authorized to make hiring decisions.02
+
+### Written matching criteria
+
+Job-related requirements are documented and confirmed by the employer before matching begins.03
+
+### Authorized sourcing
+
+Candidate sourcing uses only permitted channels. Outreach identifies the real role and uses appropriate consent and opt-out controls.04
+
+### Evidence-led verification
+
+Relevant qualifications, licences where needed, availability, and candidate permission are reviewed and traced to their source.05
+
+### Human oversight
+
+A designated human reviewer verifies every exclusion from a completed search’s eligible pool before it takes effect, and can reverse it. Candidates have correction and alternative review pathways.06
+
+### Shortlist and interviews
+
+Employers receive evidence-backed profiles, coordinate interviews, and retain sole authority over hiring.07
+
+### Close and document
+
+Filled or closed roles stop generating contacts. Records follow approved retention and deletion procedures.
+
+### AI supports coordination
+
+Matching preparation, authorized sourcing workflows, organizing relevant information, scheduling, and follow-up can be supported by AI under defined human supervision.
+
+### People decide who gets hired
+
+AI never becomes the employer, does not make final hiring decisions, and must not make unreviewable consequential adverse decisions. Human review is part of the designed process.
+
+The next step
+
+## Better hiring starts with a clearer brief.
+
+See how planned subscriptions are scoped by active search—not just headcount.Review search plans ↗
+
+Pilot pricing
+
+# Simple scopes. Clear boundaries.
+
+These are proposed pilot subscription prices, shown for transparency. They are not an active offer; HireVessa is not yet accepting subscriptions, payments, or orders.Scout
+
+### For one important role
+$199/mo
+
+Employer-paid monthly subscription. Planned pilot service, subject to approval.
+- 1 active search
+- Employer-confirmed job criteria
+- Authorized sourcing and consent checks
+- Qualification-evidence shortlist
+- Interview scheduling and follow-upsView launch status ↗Popular pilot scopeGrowth
+
+### For a growing pipeline
+$499/mo
+
+Employer-paid monthly subscription. Planned pilot service, subject to approval.
+- Up to 3 active searches
+- Everything in Scout
+- Priority sourcing queue
+- 1 criteria revision per search
+- Interview coordinationView launch status ↗Agency
+
+### For teams with multiple open roles
+$999/mo
+
+Employer-paid monthly subscription. Planned pilot service, subject to approval.
+- Up to 10 active searches
+- Everything in Growth
+- Multiple hiring managers
+- Monthly pipeline activity review
+- Search coordination across rolesView launch status ↗Pilot pricing is unvalidated. Plan availability, service descriptions, jurisdiction eligibility, and signed employer agreements require approval before checkout can open. No payment functionality is active.How the scopes work: one active search = one defined position, at one location or remote arrangement — a materially different role is a new search. A subscription buys a documented, competently run search capacity, not unlimited labour, unlimited candidates, or unlimited restarts. The Agency tier’s 10-search entitlement is provisional: it is confirmed against measured search cost at launch, and if the margin floor cannot hold it, new Agency sales pause while existing Agency contracts are honoured in full.
+
+The active-search rule
+
+## What counts as an active search?
+
+A search runs from employer authorization until the role fills, closes, is paused in writing, or meets a documented inactivity threshold.
+
+After 45 days without employer engagement and two documented follow-up attempts, the search parks and its slot is freed. Pausing a search does not create a hidden active-work charge.1Authorized roleThe search beginsACTIVE2Search and shortlist workRecorded against the roleACTIVE3Closed, filled or pausedThe slot becomes availablePARKED
+
+Important boundaries
+
+## Know what a plan does not buy.
+
+### No hiring guarantees
+
+HireVessa plans a competent, documented search, not guaranteed hires, candidate volume, time-to-fill, or workforce results.
+
+### No hidden services or spend
+
+Background checks, paid job board placements, payroll, temp staffing, and employer-of-record services are not part of the subscription. Any third-party spend requires approval.
+
+Questions
+
+## Pricing FAQs
+
+Q: Can I buy a plan now?
+
+No. These are planned pilot prices. There is no live checkout, and no subscription or candidate intake is open.
+
+Q: Are candidates charged any fees?
+
+No. Candidate placement fees are prohibited under the HireVessa operating model.
+
+Q: Who employs the candidate?
+
+The employer who hires the candidate. HireVessa does not serve as the employer of record or operate temporary staffing in this model.
+
+Q: Are direct-hire placement fees offered?
+
+Not at launch. A separate direct-hire recruiting model may be considered later only after internal gates, written terms, and compliance approval.
+
+Q: What happens if a search produces no shortlist?
+
+The planned refund framework provides a criteria-revision/re-run or a search-slot credit, followed by a limited remedy for continued non-delivery. Final customer-facing terms must be approved before launch.
+
+About HireVessa
+
+# Built to make recruiting more accountable.
+
+HireVessa was created around a straightforward idea: modern tools can support hiring, but neither candidate dignity nor employer decision-making should get lost in automation.
+
+Our approach
+
+## Match the work. Respect the person.
+
+HireVessa Recruiting is a planned employer-paid service built on real job openings, role-related qualification evidence, appropriate consent, and reviewable processes.
+
+Operations are coordinated on Muse, our AI operations system, directed by Jeremy Mills. The employer makes every hiring decision.
+
+The service is not an employer-of-record or temporary staffing company. Candidates are never charged a placement fee.
+
+Our values
+
+## Clarity.
+Consent.
+Accountability.
+
+Never fictional jobs. Never unreviewable adverse decisions. Never candidate placement fees.
+
+Our founder
+
+## Jeremy “Chico” Mills
+
+Founder & CEO · Serial entrepreneur · USAF veteran
+
+Jeremy Mills is the founder and owner of 10+ companies, led by Apex Grid Engineering.
+
+With HireVessa Recruiting, he is building a recruiting company that runs around the clock — matching employers with qualified candidates on verified evidence, with human review at every consequential step and the employer making every hiring decision.
+
+An Apex Grid Engineering PLLC company.Learn more about Jeremy at Apex Grid Engineering ↗
+
+The next step
+
+## A service with a deliberate starting line.
+
+HireVessa remains in prelaunch preparation while operations and compliance gates are completed.Read our process ↗
+
+Get in touch
+
+# Start with the right conversation.
+
+We are preparing HireVessa for launch. This page explains future contact routes; it does not yet transmit or store inquiries.
+
+For employers
+
+## Have a position in mind?
+
+When employer intake opens, we will request a real role description, pay range, location, must-have requirements, and proof that you are authorized to recruit for the position.Intake currently closed. The form is intentionally disabled. No submissions can be made on this prelaunch build.
+
+### For candidates
+
+No current jobs or candidate applications are accepted here. Please do not share a resume, Social Security number, government ID, or other personal data through this site.
+
+Employer inquiry · Preview onlyNameCompanyWork emailHiring areaChoose an industryConstruction & tradesEngineering-adjacentRole detailsInquiry intake opens after launch clearance
+
+Preview only. No data is collected, sent, or saved.
+
+### Questions about privacy or candidate rights?
+
+A verified rights-request channel must be published before candidate intake opens. Until then, this site does not collect candidate personal information.Privacy overview →
+
+### Want to understand the scope?
+
+Browse employer services, the planned plans, and the process without submitting personal information.Pilot plans →
+
+THE DETAILS
+
+# A few things worth knowing.
+
+Learn what HireVessa is designed to offer and what is deliberately excluded.
+
+Q: Is HireVessa a staffing agency?
+
+HireVessa is a recruiting service, not an employer-of-record or temporary staffing company. The employer hires and employs the successful candidate.
+
+Q: Are you accepting job applications?
+
+Not currently. HireVessa is preparing for launch; no verified roles or application intake are live on this site.
+
+Q: How does AI participate?
+
+AI assists with organizing sourcing, matching against job-related criteria, and coordination. A designated human reviewer verifies every exclusion from a completed search’s eligible pool before it takes effect — and the hiring employer decides whom to hire.
+
+Q: Does HireVessa guarantee a hire?
+
+No. The service is designed to deliver a documented recruiting process and evidence-led shortlists, not a promised hire, completion time, or fill rate.
+
+Q: What if my role is in another state?
+
+Operations must complete jurisdiction-specific employment-agency and applicable AI-hiring requirements before serving a role or recruiting candidates in that jurisdiction.
+
+Q: Will candidates ever pay a fee?
+
+No. HireVessa does not charge candidates for job placement.
+
+Q: What about background checks?
+
+Background checks are outside the subscription. If requested, the employer and a qualified consumer reporting agency must satisfy the Fair Credit Reporting Act (FCRA) disclosure, authorization, and adverse-action requirements.
+
+Q: Can I subscribe to a plan today?
+
+No. Planned pilot pricing is published for transparency, but there is no live payment flow or service commitment.
+
+Q: Can a candidate ask for human review?
+
+The planned candidate workflow includes a human-reviewed alternative and correction pathway. These must be operational before candidate intake opens.
+
+Q: What is an active search?
+
+An employer-authorized search remains active until filled, closed, written-paused, or parked for 45 days of non-engagement after two documented follow-ups.
+
+Q: What data do you collect from candidates?
+
+No candidate data is collected on this prelaunch site. Once approved, the intent is to collect only role-relevant application/contact/consent information with a clear privacy notice.
+
+The next step
+
+## See the working model in detail.
+
+Every role begins with authorized hiring needs and a documented process.How it works ↗
+
+Privacy · Draft
+
+# Privacy starts with purpose.
+
+This page describes the intended data-handling approach for HireVessa. It is a PRELAUNCH DRAFT, not an approved final notice. No candidate or employer information is collected through this site.Publication status: Draft for legal and operations review. Before live intake, complete the operator identity, verified privacy contact, jurisdictions, service providers, retention exceptions, consumer rights instructions, and applicable state notices.
+
+## 1. Scope and current website status
+
+HireVessa Recruiting is a planned employer-paid recruiting service operated under Apex Grid Engineering PLLC. This prelaunch static site does not use application forms, analytics, tracking pixels, marketing cookies, or a functional submission endpoint. Browsers and hosting providers may process standard technical request logs according to their own systems.
+
+## 2. What information may be collected later
+
+With approved intake and appropriate notice, information may include candidate-submitted resume and application details, contact information, qualifications, job-related licences and availability, role preferences, and consent/contact history. Employer information may include real vacancies, hiring criteria, work contact details, and search coordination records.
+
+We do not plan to request Social Security numbers, dates of birth, medical information, or financial account data through candidate intake. Sensitive onboarding information belongs with the hiring employer, not HireVessa.
+
+## 3. Why information would be used
+
+Only to perform authorized recruiting functions: verify job-related requirements, match willing candidates to relevant roles, coordinate consideration, support human review, maintain legally necessary records, and respond to requests. Candidate information is not sold and is not shared among sister brands for marketing.
+
+## 4. Candidate consent and choices
+
+Candidates would be told the role or accurately described employer type, the use of AI-assisted matching, and how to opt out. They would have a way to request human review, correct their record, access their personal data when applicable, and request deletion subject to lawful exceptions.
+
+## 5. AI and human review
+
+AI may assist with matching candidates against employer-confirmed, job-related criteria. Final hiring decisions remain with employers. Consequential adverse decisions are subject to human review as described in the operating model.
+
+## 6. Data sharing
+
+Role-relevant candidate details may be shared with the employer for the role to which the candidate consented to be considered. Necessary service providers would be selected and contracted before intake. No automatic transfer from RoleNestra or any other company occurs without separate, purpose-specific consent.
+
+## 7. Intended retention
+
+Candidate pool consent is planned for re-confirmation every 12 months. Per-search working records are planned for deletion 12 months after search closure unless an active pool consent or lawful retention requirement applies. Deletion requests are planned to be actioned within seven days where legally permitted; evidence needed for claims or disputes may be retained as legally required.
+
+## 8. Security
+
+Planned controls include encryption in transit and at rest, least-privilege access, administrator MFA, and access logging. No claims of independently certified security are made on this site.
+
+## 9. Rights request channel
+
+A verified privacy contact address and an authenticated rights-request workflow must be added before candidate intake begins. Do not send personal information through the prelaunch site.
+
+## 10. Updates
+
+Final effective and revision dates will appear here after legal review. Applicable rights are governed by law and are not restricted by this draft.
+
+Terms · Draft
+
+# A clear service agreement matters.
+
+These are PRELAUNCH DRAFT website and proposed recruiting-service terms for internal legal review. They do not create a purchase offer or activate subscriptions.Not final legal terms. Counsel and operations must verify entity details, approved jurisdictions, fee mechanics, delivery specifications, liability language, notices, dispute jurisdiction, and service operations before publishing final enforceable terms or opening checkout.
+
+## 1. Website use
+
+This website is an informational prelaunch preview. Content is provided without a commitment to deliver services. No candidate applications, employer orders, payments, or contracts can be submitted here.
+
+## 2. Proposed service boundary
+
+HireVessa Recruiting is intended to support employer-authorized candidate sourcing, matching and shortlisting. The employer alone interviews, selects, hires, supervises, and employs its workers. HireVessa is not a temporary staffing provider or employer of record.
+
+## 3. Employer responsibilities
+
+When service opens, employers are expected to provide accurate authorized role details, lawful job-related criteria, genuine pay ranges and location information, hiring representatives, and instructions consistent with applicable law. Employers remain responsible for employment decisions and their legal duties.
+
+## 4. Proposed plans and searches
+
+Planned pilot tiers: Scout $199/month with one active search; Growth $499/month with up to three; Agency $999/month with up to ten. Prices and scopes are provisional until formally offered. A search is active from employer authorization until filled, closed, written-paused, or parked after 45 days without employer engagement and two documented follow-ups.
+
+## 5. No outcome guarantee
+
+HireVessa does not promise any hire, time-to-fill, number of available candidates, or placement outcome. A competent, documented sourcing process and any agreed deliverables would be governed by the signed employer agreement.
+
+## 6. Screening and background checks
+
+AI-assisted matching must operate on job-related criteria with human verification of every exclusion from a completed search’s eligible pool. Any background check through a consumer reporting agency, if requested, is governed by the Fair Credit Reporting Act (FCRA): it requires the employer’s separate disclosure and the candidate’s written authorization, and the FCRA adverse-action process. HireVessa does not order, procure, or resell consumer reports — the employer works directly with its own qualified consumer reporting agency. HireVessa is not a consumer reporting agency.
+
+## 7. Candidate terms
+
+Candidate placement fees are prohibited. A candidate's consent and privacy rights must be respected, and there may be no fictional or expired roles used for contact.
+
+## 8. Payment, cancellation and refunds
+
+There is no active payment system on this website. Any future signed agreement must describe billing, cancellation, applicable refund remedies, and the effect of disputes. The proposed refund approach appears on the separate draft refund policy.
+
+## 9. Confidentiality and data
+
+Employers' confidential hiring plans and role records must be segregated between customers. Candidate data may be disclosed only as authorized for a relevant role, under final privacy terms and consent records.
+
+## 10. Jurisdiction and availability
+
+HireVessa will operate only in jurisdictions where the required regulatory review has been completed. A page describing the service does not mean it is available in any particular state.
+
+## 11. Intellectual property
+
+HireVessa site content and branding are proprietary except where otherwise stated. Third-party brand names remain the property of their owners.
+
+## 12. Legal rights
+
+Nothing in this draft waives mandatory statutory rights. Final contract language and official notice details will be published before any service commitments.
+
+Refund policy · Draft
+
+# Clear remedies for real service failures.
+
+This PRELAUNCH DRAFT explains the proposed refund principles. It requires legal and operations approval before billing is enabled.No payments are processed here today. These provisions are a planned policy, not a currently operative refund agreement.
+
+## 1. The starting principle
+
+Refunds are designed to remedy non-delivery, material defects, missed agreed delivery windows, and compliance incidents—not buyer's remorse over properly delivered and consumed work. Nothing limits remedies required by applicable law.
+
+## 2. Earned work and cancellation
+
+Documented work already performed is generally earned. A cancellation stops future recurring charges in line with the final agreement; unused or undelivered portions are addressed under the applicable service commitments and the law.
+
+## 3. No-shortlist remedy
+
+If a completed, agreed sourcing cycle produces no candidates meeting the confirmed criteria, the employer may select a no-additional-charge criteria revision and re-run or a credit for that search slot to a different role. If the re-run also produces no shortlist, the proposed remedy includes a refund of that search's attributable subscription portion on request.
+
+## 4. Compliance incidents
+
+Affected search periods may be refunded in full on request when a verified violation of the real-role, human-review, consent, or employment boundary rules materially affected the search. Ordinary consumption limits do not extinguish statutory rights or remedies for material misconduct.
+
+## 5. Disputes
+
+Chargebacks may pause only the disputed work during review, with relevant agreement, delivery, communication and consent evidence handled securely. Unrelated services should not automatically be suspended.
+
+## 6. Finalization required
+
+Agreed sourcing-cycle durations, refund request methods, timelines, calculation methods, and verified support contact details must appear in the final policy before paid launch.
+
+Accessibility
+
+# A site meant to work for more people.
+
+We designed the static HireVessa preview for keyboard navigation, mobile layouts, visible focus states, and clear language. Accessibility checks continue before launch.
+
+## Our commitment
+
+HireVessa aims to provide an accessible website and, when recruiting operations open, an accessible alternative to automated candidate matching and reasonable accommodation routes.
+
+## Current features
+
+- Keyboard-accessible navigation and visible focus indicators.
+- Responsive layouts suitable for phones, tablets, and desktop devices.
+- Semantic headings, labels, alt text, and reduced-motion preferences.
+- No autoplay video or background audio.
+
+## Before intake opens
+
+Any future application form must receive keyboard, screen-reader, error handling, contrast, and accommodation testing. A verified human contact channel must be available for accessibility requests.
+
+## Report a problem
+
+The accessible contact route will be published before live candidate intake. No information can currently be submitted through this prelaunch site.HireVessa
+
+The Right People. The Right Opportunity.
+
+Recruiting support built on verified job-related criteria, transparent candidate processes, and employer-led hiring decisions.
+
+An Apex Grid Engineering PLLC company.
+
+ExploreFor employersFor candidatesIndustriesPilot pricing
+
+CompanyAboutOur processContactFAQs
+
+PoliciesPrivacy (draft)Terms (draft)Refund policy (draft)Accessibility© 2026 HireVessa. All rights reserved.Prelaunch information only. No applications, orders, or payments are accepted through this website.Ask HireVessa
+
+HireVessa AssistantAn automated assistant — it explains the service from our published pages. It takes no applications or intake.
+
+Human review
+Evidence packs
+Pricing
+Candidate fees
+Industries
+When does it launch?
+
+Ask
